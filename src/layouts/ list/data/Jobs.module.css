@@ -1,0 +1,63 @@
+.box {
+    font-size: 13px;
+    height: 80px;
+    width: 80px;
+  }
+  .button {
+    font-family: sans-serif;
+  }
+  .text {
+    color: black;
+    width: 100;
+    margin-left: 40%;
+  }
+  .align {
+    margin-left: 5%;
+    font-size: small;
+  }
+  .paragraph {
+    text-align: left;
+  }
+  .box_container {
+    position: relative;
+    float: left;
+    padding: 10px;
+  }
+  .image_container {
+    position: relative;
+    float: left;
+    width: 88px;
+    height: 20px;
+    padding: 5px;
+  }
+  .text_container {
+    position: relative;
+    float: left;
+    width: 200px;
+    height: 120px;
+    word-wrap: break-word;
+    padding: 10px;
+  }
+  .text_caption {
+    color: #a4a4a4;
+    padding-top: 15px;
+    font-size: 13px !important;
+  }
+  .button_label {
+    background-color: lavender;
+    font-size: 13px;
+    color: rgb(67, 67, 241);
+    margin-right: 10px;
+  }
+  .text_applicant {
+    font-size: 15px;
+    font-weight: bold;
+    position: relative;
+    float: left;
+    height: 70px;
+    margin-top: 10px !important;
+  }
+  .button_align {
+    margin-top: 10px !important;
+  }
+  
